@@ -20,7 +20,7 @@ An exploratory analysis of the World Happiness Report data (2015–2021).
 
 - Python, Jupyter Notebook  
 - `pandas`, `numpy` for data wrangling  
-- `matplotlib`, `seaborn` (and/or `plotly`) for visualizations  
+- `matplotlib`, `seaborn` for visualizations  
 
 ## 🚀 How to run
 
